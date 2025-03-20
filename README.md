@@ -25,6 +25,6 @@ I'm just a 16-year-old guy into Linux, Embedded Systems, and Mobile Devices. I'm
 - 📫 How to reach me:
   - [Telegram](https://t.me/v6lhost)
   - [Matrix](https://matrix.to/#/@v6lhost:matrix.org)
-  - [Discord](discord.com/users/638370229600124928)
+  - [Discord](https://discord.com/users/638370229600124928)
 - ⚡ Fun fact:
   - I have a collection of old phones, and I’m always trying things they probably don’t like—but I don’t care 💀
