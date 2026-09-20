@@ -11,8 +11,8 @@ I'm a 17-year-old into Linux, Embedded Systems, Mobile Devices, Networking and w
 - 💬 Ask me about 
   - I don't know, just ask me directly-it's worth a try.
 - 📫 How to reach me:
-  - [Telegram](https://t.me/v6lhost)
+  - Telegram - waiting for deletion
   - [Matrix](https://matrix.to/#/@v6lhost:matrix.org)
-  - [Discord](https://discord.com/users/638370229600124928) (note: Discord is *still banned in my country.)
+  - Discord - also waiting for deletion
 - ⚡ Fun fact:
-  - I'm just a guy that enjoys messing up with locked devices and low level stuff. 
+  - I'm just a guy that enjoys messing up with locked devices and low level stuff. And a Linux fanboy.
