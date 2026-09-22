@@ -3,7 +3,7 @@
 I'm a 17-year-old into Linux, Embedded Systems, Mobile Devices, Networking and way too many other things to list here. I'm always looking for a Linux kernel—if I can't find one, I'm probably trying to port it.
 
 - 🔭 I’m currently working on 
-  - Most of the time I don't even know what I'm working on until I start.
+  - A personal website and fixing my life mostly.
 - 🌱 I’m currently learning 
   - Nothing specific, just building and breaking things.
 - 🤔 I’m looking for
